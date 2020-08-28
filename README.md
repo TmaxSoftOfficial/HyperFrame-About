@@ -114,6 +114,7 @@ HyperFrame OpenEdition  서비스 등급 가이드
     </tr>
   </tbody>
 </table>
-* 추가 기술지원은 TTS 별도 구매
-1. 문의번호 : 기술서비스센터 1544-8629
-2. 문의메일 : opensource_servicedesk@tmax.co.kr
+
+* 추가 기술지원은 TTS 별도 구매  
+1. 문의번호 : 기술서비스센터 1544-8629  
+2. 문의메일 : opensource_servicedesk@tmax.co.kr  
