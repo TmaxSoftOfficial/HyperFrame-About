@@ -1,5 +1,5 @@
-# HyperFrameOE_Service Level
-HyperFrame OpenEdition  서비스 등급 가이드
+# HyperFrame_Service Level
+HyperFrame 서비스 등급 가이드
 
 ## 서비스 등급
  ○:온라인 지원, ●:온라인/온사이트 지원
